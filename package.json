@@ -1,0 +1,11 @@
+{
+  "name": "laba7_websockets",
+  "version": "1.0.0",
+  "description": "webSockets ISP lab work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmytro Baranov",
+  "license": "ISC"
+}
